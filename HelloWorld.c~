@@ -1,0 +1,14 @@
+/* Author:	William Ellett
+ * StaffID: 	133003
+ *
+ * HelloWorld using vim, just because we can
+ */
+
+#include <stdio.h>
+
+int 
+main(int argc, char *argv[]){
+	printf("Hello World!\n");
+	return 0;
+}
+ 
